@@ -1,4 +1,4 @@
-# Ecomart Online Sales Dashboard
+# Ecomart Sales Dashboard
 
 This project involves creating an interactive sales dashboard using Power BI for Ecomart, an online store. The dashboard helps Ecomart track and analyze their online sales across India, providing valuable insights into sales trends.
 
