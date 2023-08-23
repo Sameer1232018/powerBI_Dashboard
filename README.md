@@ -20,4 +20,6 @@ This project involves creating an interactive sales dashboard using Power BI for
 4. Customize visualizations, filters, and parameters to suit your requirements.
 5. Interact with the dashboard to gain insights into sales data.
 
-
+## Screenshots
+DashBoard
+![ECOMART SALE DASHBOARD_page-0001](https://github.com/Sameer1232018/powerBI_Dashboard/assets/49482350/563035fb-2adf-4b8e-8c50-2b2f51e31790)
