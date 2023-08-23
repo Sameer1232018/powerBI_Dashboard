@@ -15,7 +15,7 @@ This project involves creating an interactive sales dashboard using Power BI for
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Open the Power BI file (Ecomart_Sales_Dashboard.pbix) using Power BI Desktop.
+2. Open the Power BI file (ECOMART SALE DASHBOARD.pbix) using Power BI Desktop.
 3. Configure data sources as needed.
 4. Customize visualizations, filters, and parameters to suit your requirements.
 5. Interact with the dashboard to gain insights into sales data.
